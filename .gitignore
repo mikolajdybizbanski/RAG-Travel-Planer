@@ -1,0 +1,6 @@
+plans/.pseudo_plans/
+test.py
+search.py
+test_generate.py
+generate_groq.py
+.env

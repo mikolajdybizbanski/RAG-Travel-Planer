@@ -1,0 +1,1318 @@
+[
+    {
+        "id": "cafe_001",
+        "name": "MiniPig Caffe",
+        "category": "Eat",
+        "importance_score": 5,
+        "location": {
+            "lat": 47.4925,
+            "lon": 19.0583
+        },
+        "vibe_tags": [
+            "cafe",
+            "quirky",
+            "morning"
+        ],
+        "cost_tier": "$",
+        "description": "Europe's first coffee shop where you can enjoy a delicious cup of coffee while petting mini pigs – a rare and unforgettable combo.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "cafe_002",
+        "name": "Zoo Cafe",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.4913,
+            "lon": 19.0583
+        },
+        "vibe_tags": [
+            "cafe",
+            "animals",
+            "quirky",
+            "family"
+        ],
+        "cost_tier": "$$",
+        "description": "An interactive cafe where you can hold exotic animals like snakes, lizards, and parrots while drinking your coffee. Requires booking ahead.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "19:00"
+    },
+    {
+        "id": "cafe_003",
+        "name": "New York Cafe",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4984,
+            "lon": 19.0705
+        },
+        "vibe_tags": [
+            "splurge",
+            "architecture",
+            "historic",
+            "opulent"
+        ],
+        "cost_tier": "$$$",
+        "description": "Known as the 'most beautiful cafe in the world', featuring stunning Italian Renaissance-style architecture, frescoes, and gold leaf. Very touristy and expensive, but visually breathtaking.",
+        "city": "Budapest",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "cafe_004",
+        "name": "Cookie Beacon",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.4979,
+            "lon": 19.0521
+        },
+        "vibe_tags": [
+            "sweets",
+            "trendy",
+            "brunch"
+        ],
+        "cost_tier": "$$",
+        "description": "Famous for chunky, gourmet cookies and decadent brunch items. Highly popular on social media, expect a line during peak hours.",
+        "city": "Budapest",
+        "opening_time": "08:00",
+        "closing_time": "15:00"
+    },
+    {
+        "id": "cafe_005",
+        "name": "Twenty Six Cafe",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.4988,
+            "lon": 19.0581
+        },
+        "vibe_tags": [
+            "botanical",
+            "trendy",
+            "aesthetic"
+        ],
+        "cost_tier": "$$$",
+        "description": "A massive, lush botanical oasis in the middle of the city. The indoor jungle aesthetic is perfect for photos, serving high-end Mediterranean food and coffee.",
+        "city": "Budapest",
+        "opening_time": "09:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "cafe_006",
+        "name": "SIRAP brunch & more",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.5021,
+            "lon": 19.0521
+        },
+        "vibe_tags": [
+            "brunch",
+            "cozy",
+            "modern"
+        ],
+        "cost_tier": "$$",
+        "description": "A highly-rated, modern specialty coffee and brunch spot offering fantastic avocado toasts and Middle Eastern-inspired breakfast dishes. Miniature Teddy Bears are served with the coffee for an extra dose of cuteness.",
+        "city": "Budapest",
+        "opening_time": "08:00",
+        "closing_time": "16:00"
+    },
+    {
+        "id": "cafe_007",
+        "name": "BELOVED 2D Cafe",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.5015,
+            "lon": 19.0498
+        },
+        "vibe_tags": [
+            "aesthetic",
+            "quirky",
+            "photography"
+        ],
+        "cost_tier": "$$",
+        "description": "An optical illusion cafe designed entirely in black and white to look like a 2D comic book drawing. Excellent for unique photos and fluffy japanese pancakes.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "cafe_008",
+        "name": "Cafe Gerbeaud",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4968,
+            "lon": 19.0504
+        },
+        "vibe_tags": [
+            "historic",
+            "sweets",
+            "classic"
+        ],
+        "cost_tier": "$$$",
+        "description": "One of the greatest and most traditional coffee houses in Europe. Famous for classic Hungarian cakes like Dobos torte in an opulent, chandelier-filled setting.",
+        "city": "Budapest",
+        "opening_time": "09:00",
+        "closing_time": "21:00"
+    },
+    {
+        "id": "food_001",
+        "name": "A langosos",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5055,
+            "lon": 19.0544
+        },
+        "vibe_tags": [
+            "street food",
+            "traditional",
+            "quick"
+        ],
+        "cost_tier": "$",
+        "description": "A hidden gem serving incredibly authentic, no-frills Lángos (Hungarian deep-fried flatbread). Perfect for a fast, greasy, and delicious budget meal.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "food_002",
+        "name": "Retro Langos",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5012,
+            "lon": 19.0535
+        },
+        "vibe_tags": [
+            "street food",
+            "popular",
+            "late night"
+        ],
+        "cost_tier": "$$",
+        "description": "One of the most famous Lángos spots in the city. Fast-paced, cheap, and offers a massive variety of traditional and modern toppings. Great for late-night food.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "02:00"
+    },
+    {
+        "id": "food_003",
+        "name": "Karavan",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4975,
+            "lon": 19.0628
+        },
+        "vibe_tags": [
+            "street food",
+            "social",
+            "outdoor",
+            "trendy"
+        ],
+        "cost_tier": "$$",
+        "description": "An outdoor street food courtyard. Offers everything from vegan burgers to chimney cake. Great social vibe.",
+        "city": "Budapest",
+        "opening_time": "11:30",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "food_004",
+        "name": "For Sale Pub",
+        "category": "Eat",
+        "importance_score": 9,
+        "location": {
+            "lat": 47.4878,
+            "lon": 19.0583
+        },
+        "vibe_tags": [
+            "quirky",
+            "traditional",
+            "huge portions",
+            "rustic"
+        ],
+        "cost_tier": "$$$",
+        "description": "A wildly atmospheric pub where the floor is covered in straw and the walls are plastered with thousands of notes left by visitors. Famous for giant bowls of traditional Goulash.",
+        "city": "Budapest",
+        "opening_time": "12:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "food_005",
+        "name": "The Magic Budapest",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.5029,
+            "lon": 19.0585
+        },
+        "vibe_tags": [
+            "themed",
+            "fantasy",
+            "burgers"
+        ],
+        "cost_tier": "$$$",
+        "description": "A heavily themed Harry Potter/fantasy restaurant. Serves magical-themed burgers and smoking cocktails in cauldrons. Very fun, but leans touristy.",
+        "city": "Budapest",
+        "opening_time": "11:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "food_006",
+        "name": "Pirate Empire Restaurant",
+        "category": "Eat",
+        "importance_score": 5,
+        "location": {
+            "lat": 47.4988,
+            "lon": 19.0611
+        },
+        "vibe_tags": [
+            "themed",
+            "family",
+            "fun"
+        ],
+        "cost_tier": "$$$",
+        "description": "A pirate-themed restaurant with elaborate nautical decor and waitstaff in costume. Good for themed experiences and hearty meals.",
+        "city": "Budapest",
+        "opening_time": "11:30",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "food_007",
+        "name": "Szaletly",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5135,
+            "lon": 19.0911
+        },
+        "vibe_tags": [
+            "modern hungarian",
+            "elegant",
+            "bistro"
+        ],
+        "cost_tier": "$$",
+        "description": "A brilliant modern Hungarian bistro. Offers a highly elevated, contemporary take on traditional Hungarian dishes in a beautifully designed space.",
+        "city": "Budapest",
+        "opening_time": "12:00",
+        "closing_time": "23:00"
+    },
+    {
+        "id": "food_008",
+        "name": "BAOBOX",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.5015,
+            "lon": 19.0531
+        },
+        "vibe_tags": [
+            "asian",
+            "quick",
+            "budget"
+        ],
+        "cost_tier": "$",
+        "description": "A great, fast-casual spot serving excellent steamed bao buns and Asian street food. Perfect for a quick, cheap, and filling lunch on the go.",
+        "city": "Budapest",
+        "opening_time": "11:00",
+        "closing_time": "21:00"
+    },
+    {
+        "id": "food_009",
+        "name": "Komachi Bistro",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5002,
+            "lon": 19.0633
+        },
+        "vibe_tags": [
+            "japanese",
+            "authentic",
+            "comfort food"
+        ],
+        "cost_tier": "$",
+        "description": "A fantastic, authentic Japanese bistro. Famous for huge, comforting bowls of curry and udon at very reasonable prices.",
+        "city": "Budapest",
+        "opening_time": "11:30",
+        "closing_time": "21:00"
+    },
+    {
+        "id": "attr_001",
+        "name": "Hungarian Parliament Building",
+        "category": "Do",
+        "importance_score": 10,
+        "location": {
+            "lat": 47.5071,
+            "lon": 19.0456
+        },
+        "vibe_tags": [
+            "architecture",
+            "historic",
+            "landmark",
+            "iconic"
+        ],
+        "cost_tier": "$",
+        "description": "One of the most spectacular legislative buildings in the world. Its massive gothic-revival architecture is breathtaking from the outside (free) and stunningly ornate on the inside (ticketed tour).",
+        "city": "Budapest",
+        "opening_time": "08:00",
+        "closing_time": "16:00"
+    },
+    {
+        "id": "attr_002",
+        "name": "Shoes on the Danube Bank",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5039,
+            "lon": 19.0447
+        },
+        "vibe_tags": [
+            "memorial",
+            "historic",
+            "emotional",
+            "ww2"
+        ],
+        "cost_tier": "Free",
+        "description": "A deeply moving memorial featuring iron shoes scattered along the riverbank, honoring the Jewish people who were killed by fascist militiamen during WWII.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_003",
+        "name": "Széchenyi Chain Bridge",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4989,
+            "lon": 19.0436
+        },
+        "vibe_tags": [
+            "landmark",
+            "scenic",
+            "walking"
+        ],
+        "cost_tier": "Free",
+        "description": "The iconic suspension bridge connecting Buda and Pest. Guarded by massive stone lions, it offers incredible views of the river and city skyline, especially at night.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_004",
+        "name": "Budapest Castle Hill Funicular",
+        "category": "Do",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.4982,
+            "lon": 19.0399
+        },
+        "vibe_tags": [
+            "vintage",
+            "scenic",
+            "quick"
+        ],
+        "cost_tier": "$$",
+        "description": "A historic, 19th-century funicular railway that takes you up a steep incline to Buda Castle. A fun, slightly pricey 2-minute ride with great views.",
+        "city": "Budapest",
+        "opening_time": "08:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "attr_005",
+        "name": "Fisherman's Bastion",
+        "category": "See",
+        "importance_score": 9,
+        "location": {
+            "lat": 47.5022,
+            "lon": 19.0347
+        },
+        "vibe_tags": [
+            "architecture",
+            "viewpoint",
+            "fairytale",
+            "romantic"
+        ],
+        "cost_tier": "$",
+        "description": "A stunning, fairytale-like viewing terrace with white stone towers and arches. It offers arguably the best panoramic views of the Pest side of the city. (Lower balconies are free).",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_006",
+        "name": "Matthias Church",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5025,
+            "lon": 19.0342
+        },
+        "vibe_tags": [
+            "gothic",
+            "architecture",
+            "historic"
+        ],
+        "cost_tier": "$",
+        "description": "This church is famous for its vibrant, multi-colored diamond-patterned roof tiles and incredibly ornate gothic interior.",
+        "city": "Budapest",
+        "opening_time": "09:00",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "attr_007",
+        "name": "Buda Castle",
+        "category": "Do",
+        "importance_score": 10,
+        "location": {
+            "lat": 47.4962,
+            "lon": 19.0395
+        },
+        "vibe_tags": [
+            "castle",
+            "history",
+            "museums",
+            "walking"
+        ],
+        "cost_tier": "Free",
+        "description": "The massive historical castle and palace complex of the Hungarian kings. Walking the gorgeous grounds and courtyards is free, while the attractions inside require a ticket.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_008",
+        "name": "Várkert Bazár",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.4947,
+            "lon": 19.0416
+        },
+        "vibe_tags": [
+            "gardens",
+            "architecture",
+            "scenic"
+        ],
+        "cost_tier": "Free",
+        "description": "A beautifully restored neo-Renaissance complex, featuring terraced gardens, escalators up to the castle, and great river views.",
+        "city": "Budapest",
+        "opening_time": "06:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_009",
+        "name": "Rudas Thermal Baths",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 47.4893,
+            "lon": 19.0478
+        },
+        "vibe_tags": [
+            "spa",
+            "historic",
+            "relaxing",
+            "rooftop view"
+        ],
+        "cost_tier": "$$",
+        "description": "A historic thermal bath built during the Ottoman Empire. Features a stunning 16th-century octagonal pool under a stone dome, plus a modern rooftop pool overlooking the Danube.",
+        "city": "Budapest",
+        "opening_time": "06:00",
+        "closing_time": "20:00"
+    },
+    {
+        "id": "attr_010",
+        "name": "Great Market Hall",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4871,
+            "lon": 19.0585
+        },
+        "vibe_tags": [
+            "market",
+            "food",
+            "shopping",
+            "architecture"
+        ],
+        "cost_tier": "Free",
+        "description": "The largest and oldest indoor market in Budapest. Housed in a gorgeous neo-gothic building, the ground floor is packed with paprika and sausages, while upstairs has street food and souvenirs.",
+        "city": "Budapest",
+        "opening_time": "06:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "attr_011",
+        "name": "Cinema Mystica",
+        "category": "Do",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5008,
+            "lon": 19.0526
+        },
+        "vibe_tags": [
+            "art",
+            "immersive",
+            "modern",
+            "visuals"
+        ],
+        "cost_tier": "$$",
+        "description": "An immersive digital art exhibition featuring stunning light projections, 3D mapping, and interactive audio-visual installations. Great for a rainy day or sensory experience.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+    },
+    {
+        "id": "attr_012",
+        "name": "Váci Street",
+        "category": "See",
+        "importance_score": 4,
+        "location": {
+            "lat": 47.4938,
+            "lon": 19.0528
+        },
+        "vibe_tags": [
+            "shopping",
+            "touristy",
+            "walking"
+        ],
+        "cost_tier": "Free",
+        "description": "The main pedestrian shopping street in Budapest. It is very tourist-heavy and packed with international chain stores, but the building facades above eye-level are quite beautiful.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_013",
+        "name": "Vigadó Tér Park",
+        "category": "See",
+        "importance_score": 5,
+        "location": {
+            "lat": 47.4958,
+            "lon": 19.0489
+        },
+        "vibe_tags": [
+            "park",
+            "scenic",
+            "relaxing"
+        ],
+        "cost_tier": "Free",
+        "description": "A small, elegant square along the Danube promenade. A nice place to sit on a bench, look at the statues, and enjoy the view across the river.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_014",
+        "name": "Vörösmarty Square",
+        "category": "See",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.4965,
+            "lon": 19.0506
+        },
+        "vibe_tags": [
+            "plaza",
+            "central",
+            "events"
+        ],
+        "cost_tier": "Free",
+        "description": "A major public square in the city center, home to the terminus of the historic Millennium Underground railway. Often hosts lively seasonal markets.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_015",
+        "name": "St. Stephen's Basilica",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 47.5009,
+            "lon": 19.054
+        },
+        "vibe_tags": [
+            "architecture",
+            "viewpoint",
+            "religious"
+        ],
+        "cost_tier": "$",
+        "description": "A massive, breathtaking neoclassical basilica. You can view the mummified right hand of Hungary's first king inside, and pay a small fee to climb the dome for an incredible 360-degree city view.",
+        "city": "Budapest",
+        "opening_time": "09:00",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "attr_016",
+        "name": "Gellért Thermal Baths",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4838,
+            "lon": 19.0523
+        },
+        "vibe_tags": [
+            "spa",
+            "art nouveau",
+            "relaxing",
+            "architecture"
+        ],
+        "cost_tier": "$$$",
+        "description": "One of the grandest baths in the city, famous for its stunning Art Nouveau architecture, intricate mosaic tiles, and stained glass windows. More elegant and quiet than Széchenyi.",
+        "city": "Budapest",
+        "opening_time": "09:00",
+        "closing_time": "19:00"
+    },
+    {
+        "id": "attr_017",
+        "name": "Liberty Bridge",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4857,
+            "lon": 19.0549
+        },
+        "vibe_tags": [
+            "bridge",
+            "landmark",
+            "scenic",
+            "sunset"
+        ],
+        "cost_tier": "Free",
+        "description": "A beautiful green steel bridge connecting Buda and Pest. Locals love to sit on the structural beams with a beer to watch the sunset.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_018",
+        "name": "Heroes' Square",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5149,
+            "lon": 19.0778
+        },
+        "vibe_tags": [
+            "monument",
+            "historic",
+            "grand",
+            "plaza"
+        ],
+        "cost_tier": "Free",
+        "description": "A massive, monumental square flanked by art museums, featuring towering statues of the Seven Chieftains of the Magyars. Extremely impressive in scale.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_019",
+        "name": "House of Music Hungary",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5133,
+            "lon": 19.0818
+        },
+        "vibe_tags": [
+            "modern architecture",
+            "museum",
+            "music"
+        ],
+        "cost_tier": "$$",
+        "description": "An architectural masterpiece. The building features an undulating, perforated roof. Inside is a phenomenal, highly interactive museum dedicated to the history of sound and music.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "attr_020",
+        "name": "Széchenyi Thermal Baths",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 47.5186,
+            "lon": 19.0823
+        },
+        "vibe_tags": [
+            "spa",
+            "iconic",
+            "outdoor",
+            "social"
+        ],
+        "cost_tier": "$$$",
+        "description": "The biggest and most famous thermal bath complex in Budapest. Famous for its massive yellow neo-baroque outdoor pools where locals play chess in the steaming water.",
+        "city": "Budapest",
+        "opening_time": "07:00",
+        "closing_time": "20:00"
+    },
+    {
+        "id": "attr_021",
+        "name": "Vajdahunyad Castle",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5151,
+            "lon": 19.083
+        },
+        "vibe_tags": [
+            "castle",
+            "architecture",
+            "park",
+            "romantic"
+        ],
+        "cost_tier": "Free",
+        "description": "A unique castle in City Park built to showcase different architectural styles of Hungary (Romanesque, Gothic, Renaissance, Baroque). Looks straight out of a Disney movie.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_022",
+        "name": "Danube Prosecco Cruise",
+        "category": "Do",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5,
+            "lon": 19.045
+        },
+        "vibe_tags": [
+            "boat",
+            "nightlife",
+            "scenic",
+            "drinks"
+        ],
+        "cost_tier": "$",
+        "description": "A highly popular evening activity. Cruising the Danube at night with unlimited prosecco while seeing the Parliament Building fully illuminated in gold.",
+        "city": "Budapest",
+        "opening_time": "18:00",
+        "closing_time": "23:00"
+    },
+    {
+        "id": "attr_023",
+        "name": "Gellért Hill Cave",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.4842,
+            "lon": 19.052
+        },
+        "vibe_tags": [
+            "unique",
+            "religious",
+            "caves"
+        ],
+        "cost_tier": "$",
+        "description": "A network of caves within Gellért Hill that contains an active, subterranean Catholic chapel. A very unique, slightly eerie atmosphere.",
+        "city": "Budapest",
+        "opening_time": "09:30",
+        "closing_time": "19:30"
+    },
+    {
+        "id": "attr_024",
+        "name": "Kilátóterasz",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.4868,
+            "lon": 19.0475
+        },
+        "vibe_tags": [
+            "hike",
+            "viewpoint",
+            "nature",
+            "scenic"
+        ],
+        "cost_tier": "Free",
+        "description": "Walking up provides several terraced viewpoints offering sprawling, unobstructed panoramic views of the entire city. Great for a sunrise or sunset hike.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_025",
+        "name": "Margaret Island",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5273,
+            "lon": 19.0462
+        },
+        "vibe_tags": [
+            "park",
+            "nature",
+            "biking",
+            "relaxing"
+        ],
+        "cost_tier": "Free",
+        "description": "A massive, car-free island park in the middle of the Danube. Perfect for renting a bike, having a picnic, visiting the musical fountain, or looking at the medieval ruins.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_026",
+        "name": "Moon Installation",
+        "category": "See",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.502,
+            "lon": 19.052
+        },
+        "vibe_tags": [
+            "art",
+            "installation",
+            "photography"
+        ],
+        "cost_tier": "Free",
+        "description": "A stunning, massive illuminated replica of the moon often hung in public spaces or atria in the city (location dependent on the season). A highly photogenic piece of urban art.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_027",
+        "name": "Szabó Ervin Library",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.4891,
+            "lon": 19.0638
+        },
+        "vibe_tags": [
+            "hidden gem",
+            "architecture",
+            "quiet",
+            "books"
+        ],
+        "cost_tier": "$",
+        "description": "An absolute hidden gem. For a small fee, you can enter the historic reading rooms of this library, which are housed in a stunning 19th-century aristocrat's palace with dark wood and chandeliers.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+    },
+    {
+        "id": "attr_028",
+        "name": "Sunken Temple Budapest",
+        "category": "See",
+        "importance_score": 6,
+        "location": {
+            "lat": 47.485,
+            "lon": 19.05
+        },
+        "vibe_tags": [
+            "ruins",
+            "history",
+            "hidden"
+        ],
+        "cost_tier": "Free",
+        "description": "Remnants of old stone structures and atmospheric ruins tucked away into the city's topography. Great for exploring off the beaten path.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_029",
+        "name": "Japanese Garden",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5342,
+            "lon": 19.0501
+        },
+        "vibe_tags": [
+            "nature",
+            "quiet",
+            "gardens",
+            "zen"
+        ],
+        "cost_tier": "Free",
+        "description": "Located on the northern tip of Margaret Island, this peaceful, beautifully landscaped garden features ponds, water lilies, and a waterfall. A great quiet escape.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "attr_030",
+        "name": "Fiumei Road Graveyard",
+        "category": "Do",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.4942,
+            "lon": 19.0933
+        },
+        "vibe_tags": [
+            "gothic",
+            "urbex",
+            "free",
+            "history",
+            "atmospheric"
+        ],
+        "cost_tier": "Free",
+        "description": "A massive, sprawling cemetery that feels more like a decaying sculpture park. It is wildly overgrown, incredibly quiet, and features towering, haunting mausoleums.",
+        "city": "Budapest",
+        "opening_time": "08:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "attr_031",
+        "name": "Labyrinth of Buda Castle",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 47.4998,
+            "lon": 19.0341
+        },
+        "vibe_tags": [
+            "underground",
+            "spooky",
+            "history",
+            "unique"
+        ],
+        "cost_tier": "$$",
+        "description": "A dark, damp, and spooky network of natural caves under the castle. Dracula was supposedly imprisoned here. Parts of it are completely pitch black and explored with a lantern.",
+        "city": "Budapest",
+        "opening_time": "10:00",
+        "closing_time": "19:00"
+    },
+    {
+        "id": "bar_001",
+        "name": "Manyi Kulturális Műhely",
+        "category": "Bar",
+        "importance_score": 9,
+        "location": {
+            "lat": 47.5098,
+            "lon": 19.0322
+        },
+        "vibe_tags": [
+            "indie",
+            "artsy",
+            "alternative",
+            "local"
+        ],
+        "cost_tier": "$",
+        "description": "A multi-level alternative cultural space and bar in Buda. It is highly local, gritty, filled with mismatched furniture, and often hosts underground concerts and art shows.",
+        "city": "Budapest",
+        "opening_time": "16:00",
+        "closing_time": "02:00"
+    },
+    {
+        "id": "bar_002",
+        "name": "57-es számú italbolt",
+        "category": "Bar",
+        "importance_score": 8,
+        "location": {
+            "lat": 47.5033,
+            "lon": 19.0621
+        },
+        "vibe_tags": [
+            "dive bar",
+            "retro",
+            "local",
+            "cheap"
+        ],
+        "cost_tier": "$",
+        "description": "A fiercely authentic, old-school Hungarian 'drink shop' (italbolt). Unpretentious, incredibly cheap, and feels like stepping back into the socialist era.",
+        "city": "Budapest",
+        "opening_time": "09:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "bar_003",
+        "name": "LEO Rooftop",
+        "category": "Bar",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.4981,
+            "lon": 19.0411
+        },
+        "vibe_tags": [
+            "rooftop",
+            "cocktails",
+            "view",
+            "upscale"
+        ],
+        "cost_tier": "$$$",
+        "description": "A swanky rooftop bar offering high-end cocktails and an absolutely unbeatable, up-close view of the Chain Bridge and Parliament. Great for a luxury evening drink.",
+        "city": "Budapest",
+        "opening_time": "12:00",
+        "closing_time": "00:00"
+    },
+    {
+        "id": "club_001",
+        "name": "Szimpla Kert",
+        "category": "Club",
+        "importance_score": 10,
+        "location": {
+            "lat": 47.4971,
+            "lon": 19.0628
+        },
+        "vibe_tags": [
+            "ruin bar",
+            "iconic",
+            "party",
+            "gritty"
+        ],
+        "cost_tier": "$$",
+        "description": "The original and most famous Ruin Bar in Budapest. An abandoned building transformed into a chaotic, multi-room wonderland of bizarre art, open-air courtyards, and heavy drinking.",
+        "city": "Budapest",
+        "opening_time": "15:00",
+        "closing_time": "04:00"
+    },
+    {
+        "id": "club_002",
+        "name": "Nyugati Lounge McDonalds",
+        "category": "Club",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5105,
+            "lon": 19.0583
+        },
+        "vibe_tags": [
+            "fast food",
+            "architecture",
+            "quirky",
+            "late night"
+        ],
+        "cost_tier": "$",
+        "description": "Not a nightclub, but the perfect post-club food spot. Housed in an exquisite, Gustave Eiffel-designed train station building. It is arguably the most beautiful McDonald's in the world.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_001",
+        "name": "Kermit the Frog Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.5032,
+            "lon": 19.0501
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free"
+        ],
+        "cost_tier": "Free",
+        "description": "A tiny bronze guerilla sculpture of Kermit the Frog looking out over the city. A fun, 2-minute detour if you are walking by.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_002",
+        "name": "Tiny Tank Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.5065,
+            "lon": 19.0423
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free",
+            "history"
+        ],
+        "cost_tier": "Free",
+        "description": "A miniature bronze tank with a bent barrel, subtly commenting on the 1956 Hungarian Revolution.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_003",
+        "name": "Rubik’s Cube Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.502,
+            "lon": 19.0401
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free"
+        ],
+        "cost_tier": "Free",
+        "description": "A tiny bronze Rubik's cube set along the riverfront, celebrating the famous Hungarian invention.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_004",
+        "name": "Dracula Kolodko Figure",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 47.5152,
+            "lon": 19.0827
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free",
+            "film",
+            "gothic"
+        ],
+        "cost_tier": "Free",
+        "description": "A tiny, hidden bronze statue of Bela Lugosi playing Dracula, tucked away near Vajdahunyad Castle. A must-find easter egg for cinema history fans.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_005",
+        "name": "Diver Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.4985,
+            "lon": 19.071
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free"
+        ],
+        "cost_tier": "Free",
+        "description": "A mini sculpture of a deep-sea diver holding a key, placed right outside the New York Cafe.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_006",
+        "name": "Noah’s Ark Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.499,
+            "lon": 19.0505
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free"
+        ],
+        "cost_tier": "Free",
+        "description": "A tiny bronze depiction of Noah's Ark waiting out the flood.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_007",
+        "name": "Brexit Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.5005,
+            "lon": 19.055
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free",
+            "satire"
+        ],
+        "cost_tier": "Free",
+        "description": "A tiny, satirical bronze figure of Mr. Bean holding his teddy bear.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_008",
+        "name": "Trabant Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.512,
+            "lon": 19.043
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free",
+            "history"
+        ],
+        "cost_tier": "Free",
+        "description": "A miniature bronze cast of the iconic East German Trabant car.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_009",
+        "name": "The Russians are already in the pantry",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.496,
+            "lon": 19.058
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free",
+            "satire"
+        ],
+        "cost_tier": "Free",
+        "description": "A culturally significant mini-statue referencing a famous line from a classic Hungarian comedy film.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_010",
+        "name": "Paddington and Masha",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.504,
+            "lon": 19.06
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free"
+        ],
+        "cost_tier": "Free",
+        "description": "A whimsical pairing of the famous British bear and the Russian cartoon character.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "kol_011",
+        "name": "Dirty Fred, the Captain Kolodko Figure",
+        "category": "See",
+        "importance_score": 1,
+        "location": {
+            "lat": 47.495,
+            "lon": 19.045
+        },
+        "vibe_tags": [
+            "easter egg",
+            "art",
+            "free",
+            "literature"
+        ],
+        "cost_tier": "Free",
+        "description": "A mini tribute to a beloved character from the classic Hungarian adventure novels of Jenő Rejtő.",
+        "city": "Budapest",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    }
+]
