@@ -6,6 +6,7 @@ An intelligent travel-planning system that generates personalized multi-day itin
 
 Instead of asking an LLM to invent a travel plan, this project retrieves real locations from a curated database, groups them geographically, optimizes walking routes, and then generates a coherent itinerary based on user preferences and budget.
 
+![Demo](travel_rag.gif)
 ---
 
 ## Why This Project?
