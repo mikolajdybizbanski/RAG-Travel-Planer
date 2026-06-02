@@ -6,7 +6,7 @@ client = chromadb.HttpClient(host="localhost", port=8000)
 
 collection = client.get_or_create_collection(name="travel_rag_collection")
 
-with open("plans/rovaniemi_locations.json", "r", encoding="utf-8") as file:
+with open("plans/dublin_locations.json", "r", encoding="utf-8") as file:
     locations = json.load(file)
 
 ids = []

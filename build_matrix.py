@@ -51,4 +51,4 @@ def build_city_matrix(city_name):
         
     print(f"Success! Saved {len(locations)}x{len(locations)} routing grid to {filename}")
 
-build_city_matrix("Budapest")
+build_city_matrix("Dublin")

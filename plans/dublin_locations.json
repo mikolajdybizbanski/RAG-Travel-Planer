@@ -1,0 +1,1085 @@
+[
+    {
+        "id": "dub_attr_001",
+        "name": "Guinness Storehouse",
+        "category": "Do",
+        "importance_score": 10,
+        "location": {
+            "lat": 53.3419,
+            "lon": -6.2867
+        },
+        "vibe_tags": [
+            "brewery",
+            "iconic",
+            "views",
+            "history"
+        ],
+        "cost_tier": "$$$",
+        "description": "A massive seven-story visitor experience dedicated to Ireland's famous stout, culminating in a rooftop Gravity Bar with panoramic city views.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "19:00"
+    },
+    {
+        "id": "dub_attr_002",
+        "name": "Trinity College",
+        "category": "See",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3438,
+            "lon": -6.2546
+        },
+        "vibe_tags": [
+            "historic",
+            "university",
+            "architecture"
+        ],
+        "cost_tier": "Free",
+        "description": "Ireland's oldest and most prestigious university, featuring beautiful cobblestone squares and historic architecture.",
+        "city": "Dublin",
+        "opening_time": "08:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "dub_attr_003",
+        "name": "Dublin Castle",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3429,
+            "lon": -6.2674
+        },
+        "vibe_tags": [
+            "castle",
+            "history",
+            "government"
+        ],
+        "cost_tier": "$$",
+        "description": "A major Irish government complex and historic site with beautifully decorated state apartments and medieval undercrofts.",
+        "city": "Dublin",
+        "opening_time": "09:45",
+        "closing_time": "17:45"
+    },
+    {
+        "id": "dub_attr_004",
+        "name": "Kilmainham Gaol",
+        "category": "Do",
+        "importance_score": 10,
+        "location": {
+            "lat": 53.3418,
+            "lon": -6.3101
+        },
+        "vibe_tags": [
+            "history",
+            "prison",
+            "educational",
+            "emotional"
+        ],
+        "cost_tier": "$",
+        "description": "A historic former prison tied deeply to Ireland's struggle for independence. Offers incredibly moving guided tours.",
+        "city": "Dublin",
+        "opening_time": "09:30",
+        "closing_time": "17:30"
+    },
+    {
+        "id": "dub_attr_005",
+        "name": "St. Patrick's Cathedral",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3395,
+            "lon": -6.2714
+        },
+        "vibe_tags": [
+            "gothic",
+            "architecture",
+            "religious"
+        ],
+        "cost_tier": "$",
+        "description": "The National Cathedral of the Church of Ireland, known for its stunning Gothic architecture and beautiful adjacent park.",
+        "city": "Dublin",
+        "opening_time": "09:30",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "dub_attr_006",
+        "name": "Phoenix Park",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3559,
+            "lon": -6.3298
+        },
+        "vibe_tags": [
+            "park",
+            "nature",
+            "deer",
+            "walking"
+        ],
+        "cost_tier": "Free",
+        "description": "One of the largest enclosed public parks in any capital city in Europe, home to the Dublin Zoo and a large herd of wild fallow deer.",
+        "city": "Dublin",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "dub_attr_007",
+        "name": "EPIC The Irish Emigration Museum",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3486,
+            "lon": -6.2477
+        },
+        "vibe_tags": [
+            "museum",
+            "interactive",
+            "history",
+            "modern"
+        ],
+        "cost_tier": "$$",
+        "description": "A fully interactive and award-winning museum that tells the profound story of the Irish diaspora and emigration around the world.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "18:45"
+    },
+    {
+        "id": "dub_attr_008",
+        "name": "Molly Malone Statue",
+        "category": "See",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3438,
+            "lon": -6.2612
+        },
+        "vibe_tags": [
+            "statue",
+            "iconic",
+            "quick",
+            "photo op"
+        ],
+        "cost_tier": "Free",
+        "description": "A famous bronze statue of the fictional fishmonger from the traditional Irish song. A classic Dublin photo opportunity.",
+        "city": "Dublin",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "dub_attr_009",
+        "name": "Jameson Distillery Bow St.",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3484,
+            "lon": -6.2774
+        },
+        "vibe_tags": [
+            "distillery",
+            "whiskey",
+            "tour",
+            "tasting"
+        ],
+        "cost_tier": "$$",
+        "description": "The original site of the Jameson distillery, offering excellent guided tours, interactive experiences, and whiskey tastings.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "dub_attr_010",
+        "name": "The Book of Kells",
+        "category": "See",
+        "importance_score": 10,
+        "location": {
+            "lat": 53.3441,
+            "lon": -6.2568
+        },
+        "vibe_tags": [
+            "historic",
+            "manuscript",
+            "art",
+            "must-see"
+        ],
+        "cost_tier": "$$",
+        "description": "An incredibly ornate, illuminated manuscript Gospel book in Latin, housed within Trinity College's spectacular Long Room library.",
+        "city": "Dublin",
+        "opening_time": "09:30",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "dub_attr_011",
+        "name": "Grafton Street",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3411,
+            "lon": -6.2597
+        },
+        "vibe_tags": [
+            "shopping",
+            "buskers",
+            "walking",
+            "lively"
+        ],
+        "cost_tier": "Free",
+        "description": "Dublin's premier pedestrianized shopping street, famous for its high-end stores and incredibly talented street musicians (buskers).",
+        "city": "Dublin",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "dub_attr_012",
+        "name": "St. Stephen's Green Park",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3382,
+            "lon": -6.2591
+        },
+        "vibe_tags": [
+            "park",
+            "relaxing",
+            "nature",
+            "central"
+        ],
+        "cost_tier": "Free",
+        "description": "A gorgeous, well-maintained Victorian public park right in the city center, featuring a duck pond, beautiful flower beds, and monuments.",
+        "city": "Dublin",
+        "opening_time": "07:30",
+        "closing_time": "Dusk"
+    },
+    {
+        "id": "dub_attr_013",
+        "name": "St. Stephen's Green Shopping Centre",
+        "category": "See",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3396,
+            "lon": -6.2614
+        },
+        "vibe_tags": [
+            "shopping",
+            "architecture",
+            "indoor"
+        ],
+        "cost_tier": "Free",
+        "description": "A shopping mall known primarily for its stunning, ornate glass and ironwork architecture that resembles a giant greenhouse.",
+        "city": "Dublin",
+        "opening_time": "09:00",
+        "closing_time": "19:00"
+    },
+    {
+        "id": "dub_attr_014",
+        "name": "George's Street Arcade",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3417,
+            "lon": -6.2644
+        },
+        "vibe_tags": [
+            "market",
+            "vintage",
+            "quirky",
+            "shopping"
+        ],
+        "cost_tier": "Free",
+        "description": "Europe's oldest purpose-built shopping centre, now housing an eclectic mix of independent boutique stalls, vintage clothing, and food vendors.",
+        "city": "Dublin",
+        "opening_time": "09:00",
+        "closing_time": "18:30"
+    },
+    {
+        "id": "dub_attr_015",
+        "name": "Ha'penny Bridge",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3462,
+            "lon": -6.2631
+        },
+        "vibe_tags": [
+            "bridge",
+            "landmark",
+            "scenic",
+            "walking"
+        ],
+        "cost_tier": "Free",
+        "description": "An iconic, white cast-iron pedestrian bridge built in 1816 arching over the River Liffey.",
+        "city": "Dublin",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "dub_attr_016",
+        "name": "Christ Church Cathedral",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3431,
+            "lon": -6.2704
+        },
+        "vibe_tags": [
+            "architecture",
+            "history",
+            "religious"
+        ],
+        "cost_tier": "$",
+        "description": "Dublin's oldest building and a place of pilgrimage for almost 1,000 years. Famous for its massive medieval crypt and beautiful floor tiles.",
+        "city": "Dublin",
+        "opening_time": "09:30",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "dub_attr_017",
+        "name": "Viking Splash Tour",
+        "category": "Do",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3396,
+            "lon": -6.2585
+        },
+        "vibe_tags": [
+            "tour",
+            "fun",
+            "family",
+            "amphibious"
+        ],
+        "cost_tier": "$$",
+        "description": "A highly entertaining sightseeing tour of Dublin on land and water using amphibious World War II vehicles, led by enthusiastic 'Viking' guides.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "dub_attr_018",
+        "name": "National Gallery of Ireland",
+        "category": "See",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3409,
+            "lon": -6.2525
+        },
+        "vibe_tags": [
+            "art",
+            "museum",
+            "culture",
+            "quiet"
+        ],
+        "cost_tier": "Free",
+        "description": "Houses the national collection of Irish and European art, featuring major works by Caravaggio, Vermeer, and Jack B. Yeats.",
+        "city": "Dublin",
+        "opening_time": "09:15",
+        "closing_time": "17:30"
+    },
+    {
+        "id": "dub_attr_019",
+        "name": "Medieval Ruins at Lidl",
+        "category": "See",
+        "importance_score": 5,
+        "location": {
+            "lat": 53.3409,
+            "lon": -6.2652
+        },
+        "vibe_tags": [
+            "quirky",
+            "history",
+            "hidden gem"
+        ],
+        "cost_tier": "Free",
+        "description": "A functioning Lidl grocery store with glass floors allowing shoppers to view the excavated ruins of an 11th-century Hiberno-Norse house underneath.",
+        "city": "Dublin",
+        "opening_time": "08:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "dub_attr_020",
+        "name": "Marsh's Library",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3393,
+            "lon": -6.2715
+        },
+        "vibe_tags": [
+            "historic",
+            "books",
+            "quiet",
+            "hidden gem"
+        ],
+        "cost_tier": "$",
+        "description": "A perfectly preserved scholar's library from the early 18th century, complete with original oak bookcases and incredibly rare books.",
+        "city": "Dublin",
+        "opening_time": "09:30",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "dub_attr_021",
+        "name": "St. Michan's Church",
+        "category": "See",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3475,
+            "lon": -6.2755
+        },
+        "vibe_tags": [
+            "spooky",
+            "history",
+            "crypts",
+            "macabre"
+        ],
+        "cost_tier": "$",
+        "description": "A historic church famous for its burial vaults which contain remarkably preserved, naturally mummified remains from the 17th to 19th centuries.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "16:30"
+    },
+    {
+        "id": "dub_attr_022",
+        "name": "National Leprechaun Museum",
+        "category": "Do",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3481,
+            "lon": -6.2656
+        },
+        "vibe_tags": [
+            "folklore",
+            "storytelling",
+            "mythology",
+            "interactive"
+        ],
+        "cost_tier": "$$",
+        "description": "A quirky museum dedicated to Irish mythology, folklore, and storytelling, featuring optical illusions and large-scale sets.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "18:30"
+    },
+    {
+        "id": "dub_attr_023",
+        "name": "Dublin Portal",
+        "category": "See",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3501,
+            "lon": -6.2599
+        },
+        "vibe_tags": [
+            "art",
+            "modern",
+            "installation",
+            "interactive"
+        ],
+        "cost_tier": "Free",
+        "description": "A real-time visual link connecting Dublin to another global city via a massive circular screen.",
+        "city": "Dublin",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "dub_attr_024",
+        "name": "Iveagh Gardens",
+        "category": "Do",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3353,
+            "lon": -6.2605
+        },
+        "vibe_tags": [
+            "park",
+            "hidden gem",
+            "quiet",
+            "nature"
+        ],
+        "cost_tier": "Free",
+        "description": "Often called Dublin's 'Secret Garden', this beautiful Victorian park features rustic grottos, a maze, and a spectacular waterfall.",
+        "city": "Dublin",
+        "opening_time": "08:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "dub_cafe_001",
+        "name": "Create and Sip",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3451,
+            "lon": -6.2621
+        },
+        "vibe_tags": [
+            "cafe",
+            "art",
+            "creative",
+            "social"
+        ],
+        "cost_tier": "$$",
+        "description": "A creative cafe concept where visitors can enjoy a hot beverage while painting or engaging in casual craft activities.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "dub_cafe_002",
+        "name": "Bewley's Grafton Street",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3414,
+            "lon": -6.2602
+        },
+        "vibe_tags": [
+            "historic",
+            "classic",
+            "tea room",
+            "architecture"
+        ],
+        "cost_tier": "$$$",
+        "description": "An iconic, landmark cafe on Grafton Street featuring stunning stained glass windows, opulent decor, and classic teas and pastries.",
+        "city": "Dublin",
+        "opening_time": "08:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "dub_cafe_003",
+        "name": "Bread 41",
+        "category": "Eat",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3444,
+            "lon": -6.2505
+        },
+        "vibe_tags": [
+            "bakery",
+            "trendy",
+            "pastries",
+            "morning"
+        ],
+        "cost_tier": "$$",
+        "description": "A hugely popular organic bakery and cafe renowned for its exceptional sourdough breads and incredibly flaky, creative pastries. Expect queues.",
+        "city": "Dublin",
+        "opening_time": "07:00",
+        "closing_time": "15:00"
+    },
+    {
+        "id": "dub_cafe_004",
+        "name": "The Pepper Pot",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3416,
+            "lon": -6.2642
+        },
+        "vibe_tags": [
+            "cozy",
+            "brunch",
+            "quirky",
+            "sandwiches"
+        ],
+        "cost_tier": "$$",
+        "description": "Nestled inside the Powerscourt Centre, this charming, vintage-style cafe is famous for its towering Victoria sponge and excellent sandwiches.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "dub_cafe_005",
+        "name": "Lemon Jelly Cafe",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3472,
+            "lon": -6.2641
+        },
+        "vibe_tags": [
+            "crepes",
+            "brunch",
+            "casual",
+            "quick"
+        ],
+        "cost_tier": "$$",
+        "description": "A bustling, friendly spot in the Millennium Walkway specializing in sweet and savory crepes, omelets, and hearty breakfasts.",
+        "city": "Dublin",
+        "opening_time": "08:00",
+        "closing_time": "18:00"
+    },
+    {
+        "id": "dub_bar_001",
+        "name": "The Temple Bar",
+        "category": "Bar",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3454,
+            "lon": -6.2642
+        },
+        "vibe_tags": [
+            "iconic",
+            "live music",
+            "touristy",
+            "lively"
+        ],
+        "cost_tier": "$$$",
+        "description": "The most famous pub in Dublin with its iconic red exterior. Very tourist-heavy and pricey, but guarantees traditional live music and a vibrant atmosphere.",
+        "city": "Dublin",
+        "opening_time": "10:30",
+        "closing_time": "01:30"
+    },
+    {
+        "id": "dub_bar_002",
+        "name": "The Cobblestone",
+        "category": "Bar",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3486,
+            "lon": -6.2764
+        },
+        "vibe_tags": [
+            "traditional",
+            "live music",
+            "local",
+            "authentic"
+        ],
+        "cost_tier": "$$",
+        "description": "A legendary, traditional Irish pub located in Smithfield. Famously described as 'a drinking pub with a music problem,' offering incredible, authentic trad music sessions.",
+        "city": "Dublin",
+        "opening_time": "16:00",
+        "closing_time": "23:30"
+    },
+    {
+        "id": "dub_bar_003",
+        "name": "The Little Pig Speakeasy",
+        "category": "Bar",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3421,
+            "lon": -6.2625
+        },
+        "vibe_tags": [
+            "speakeasy",
+            "cocktails",
+            "hidden",
+            "upscale"
+        ],
+        "cost_tier": "$$$",
+        "description": "A sophisticated, hidden speakeasy-style cocktail bar requiring a reservation and a secret entrance. Excellent drinks in an intimate, vintage setting.",
+        "city": "Dublin",
+        "opening_time": "17:00",
+        "closing_time": "00:00"
+    },
+    {
+        "id": "dub_bar_004",
+        "name": "John Kavanagh (The Gravediggers)",
+        "category": "Bar",
+        "importance_score": 10,
+        "location": {
+            "lat": 53.3688,
+            "lon": -6.2755
+        },
+        "vibe_tags": [
+            "historic",
+            "authentic",
+            "no music",
+            "stout"
+        ],
+        "cost_tier": "$",
+        "description": "Located next to Glasnevin Cemetery, this historic pub has no music and no screens. It is widely considered by locals to pour the best pint of Guinness in Dublin.",
+        "city": "Dublin",
+        "opening_time": "12:00",
+        "closing_time": "23:30"
+    },
+    {
+        "id": "dub_bar_005",
+        "name": "Grogan's",
+        "category": "Bar",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3414,
+            "lon": -6.2629
+        },
+        "vibe_tags": [
+            "local",
+            "stout",
+            "toasties",
+            "art"
+        ],
+        "cost_tier": "$$",
+        "description": "A beloved literary and artistic pub in the city center. Renowned for a great pint of Guinness paired perfectly with their simple, famous ham and cheese toasties.",
+        "city": "Dublin",
+        "opening_time": "10:30",
+        "closing_time": "23:30"
+    },
+    {
+        "id": "dub_food_001",
+        "name": "The Brazen Head",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3448,
+            "lon": -6.2762
+        },
+        "vibe_tags": [
+            "historic",
+            "traditional",
+            "pub food",
+            "rustic"
+        ],
+        "cost_tier": "$$",
+        "description": "Dating back to 1198, it claims to be Ireland's oldest pub. Features atmospheric, low-ceiling rooms, traditional beef and Guinness stew, and nightly music.",
+        "city": "Dublin",
+        "opening_time": "12:00",
+        "closing_time": "23:30"
+    },
+    {
+        "id": "dub_food_002",
+        "name": "The Church Café, Late Bar & Restaurant",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3486,
+            "lon": -6.2673
+        },
+        "vibe_tags": [
+            "architecture",
+            "unique",
+            "bistro"
+        ],
+        "cost_tier": "$$$",
+        "description": "A spectacular bar and restaurant built inside a restored 300-year-old church (where Arthur Guinness was married), featuring stained glass and a stunning central bar.",
+        "city": "Dublin",
+        "opening_time": "10:30",
+        "closing_time": "23:30"
+    },
+    {
+        "id": "dub_food_003",
+        "name": "Merchant's Arch",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3458,
+            "lon": -6.2626
+        },
+        "vibe_tags": [
+            "touristy",
+            "pub food",
+            "lively",
+            "views"
+        ],
+        "cost_tier": "$$",
+        "description": "A large, popular traditional bar and restaurant located right on the edge of Temple Bar and the Ha'penny bridge. Good for hearty pub grub.",
+        "city": "Dublin",
+        "opening_time": "10:00",
+        "closing_time": "02:30"
+    },
+    {
+        "id": "dub_food_004",
+        "name": "Urban Brewing",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3496,
+            "lon": -6.2483
+        },
+        "vibe_tags": [
+            "craft beer",
+            "modern",
+            "vaults",
+            "tapas"
+        ],
+        "cost_tier": "$$$",
+        "description": "Set in the spectacular underground vaults of the CHQ building, offering an extensive range of in-house craft beers paired with excellent modern European tapas.",
+        "city": "Dublin",
+        "opening_time": "12:00",
+        "closing_time": "23:30"
+    },
+    {
+        "id": "dub_food_005",
+        "name": "Hang Dai",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3361,
+            "lon": -6.2652
+        },
+        "vibe_tags": [
+            "chinese",
+            "trendy",
+            "music",
+            "cocktails"
+        ],
+        "cost_tier": "$$$",
+        "description": "A vibrant, neon-lit, subway-themed contemporary Chinese restaurant known for exquisite wood-fired duck, creative cocktails, and a great DJ sound system.",
+        "city": "Dublin",
+        "opening_time": "17:00",
+        "closing_time": "00:00"
+    },
+    {
+        "id": "dub_food_006",
+        "name": "The Woollen Mills",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3465,
+            "lon": -6.2631
+        },
+        "vibe_tags": [
+            "irish",
+            "modern",
+            "view",
+            "bakery"
+        ],
+        "cost_tier": "$$",
+        "description": "Overlooking the Ha'penny bridge, this multi-floor eatery serves fantastic, modern iterations of quintessential Irish dishes and bakes.",
+        "city": "Dublin",
+        "opening_time": "09:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "dub_food_007",
+        "name": "The Bull and Castle",
+        "category": "Eat",
+        "importance_score": 7,
+        "location": {
+            "lat": 53.3431,
+            "lon": -6.2711
+        },
+        "vibe_tags": [
+            "steakhouse",
+            "meat",
+            "craft beer",
+            "hearty"
+        ],
+        "cost_tier": "$$$",
+        "description": "A superb, high-quality steakhouse and beer hall focusing on premium Irish dry-aged beef and an excellent selection of craft beers.",
+        "city": "Dublin",
+        "opening_time": "16:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "dub_food_008",
+        "name": "Brannigans",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3501,
+            "lon": -6.2605
+        },
+        "vibe_tags": [
+            "pub food",
+            "local",
+            "traditional"
+        ],
+        "cost_tier": "$$",
+        "description": "An authentic, old-school Dublin pub located just off O'Connell Street serving unpretentious, comforting, and hearty traditional Irish pub grub.",
+        "city": "Dublin",
+        "opening_time": "11:00",
+        "closing_time": "23:00"
+    },
+    {
+        "id": "dub_food_009",
+        "name": "O'Shea's Restaurant",
+        "category": "Eat",
+        "importance_score": 6,
+        "location": {
+            "lat": 53.3458,
+            "lon": -6.2559
+        },
+        "vibe_tags": [
+            "traditional",
+            "breakfast",
+            "comfort food"
+        ],
+        "cost_tier": "$$",
+        "description": "A classic, traditional Irish establishment known for its full Irish breakfasts and hearty dinner plates.",
+        "city": "Dublin",
+        "opening_time": "08:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "dub_food_010",
+        "name": "Gallagher's Boxty House",
+        "category": "Eat",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3456,
+            "lon": -6.2618
+        },
+        "vibe_tags": [
+            "traditional",
+            "potatoes",
+            "comfort food",
+            "touristy"
+        ],
+        "cost_tier": "$$",
+        "description": "Located in Temple Bar, this famous restaurant specializes in 'Boxty'—a traditional Irish potato pancake wrapped around various savory fillings.",
+        "city": "Dublin",
+        "opening_time": "12:00",
+        "closing_time": "22:00"
+    },
+    {
+        "id": "dub_trip_001",
+        "name": "Howth",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3854,
+            "lon": -6.0628
+        },
+        "vibe_tags": [
+            "seafood",
+            "hike",
+            "coastal",
+            "village"
+        ],
+        "cost_tier": "$",
+        "description": "A picturesque fishing village easily reachable by the DART train. Famous for its stunning cliff walks, lighthouse views, and incredibly fresh fish and chips.",
+        "city": "Howth",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "dub_trip_002",
+        "name": "Wicklow Mountains",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.0116,
+            "lon": -6.3262
+        },
+        "vibe_tags": [
+            "nature",
+            "hiking",
+            "scenic",
+            "monastic"
+        ],
+        "cost_tier": "$$",
+        "description": "A stunning national park south of Dublin featuring rugged landscapes, glacial lakes, and the ancient monastic settlement of Glendalough.",
+        "city": "Wicklow",
+        "opening_time": "00:00",
+        "closing_time": "23:59"
+    },
+    {
+        "id": "dub_trip_003",
+        "name": "Cliffs of Moher",
+        "category": "Do",
+        "importance_score": 10,
+        "location": {
+            "lat": 52.9715,
+            "lon": -9.4265
+        },
+        "vibe_tags": [
+            "landmark",
+            "nature",
+            "ocean",
+            "dramatic"
+        ],
+        "cost_tier": "$$$",
+        "description": "One of Ireland's most famous natural attractions. These dramatic, towering sea cliffs plunge straight into the wild Atlantic Ocean. Requires a long, full-day cross-country trip from Dublin.",
+        "city": "County Clare",
+        "opening_time": "08:00",
+        "closing_time": "19:00"
+    },
+    {
+        "id": "dub_trip_004",
+        "name": "Giant's Causeway",
+        "category": "Do",
+        "importance_score": 9,
+        "location": {
+            "lat": 55.2408,
+            "lon": -6.5116
+        },
+        "vibe_tags": [
+            "geology",
+            "nature",
+            "folklore",
+            "coastal"
+        ],
+        "cost_tier": "$$$",
+        "description": "A fascinating geological wonder consisting of thousands of interlocking basalt columns formed by ancient volcanic activity. Located in Northern Ireland, typically a full-day tour from Dublin.",
+        "city": "County Antrim",
+        "opening_time": "09:00",
+        "closing_time": "17:00"
+    },
+    {
+        "id": "dub_trip_005",
+        "name": "Game of Thrones Studio Tour",
+        "category": "Do",
+        "importance_score": 8,
+        "location": {
+            "lat": 54.2717,
+            "lon": -6.2829
+        },
+        "vibe_tags": [
+            "tv",
+            "tour",
+            "immersive",
+            "props"
+        ],
+        "cost_tier": "$$$",
+        "description": "A massive, immersive exhibition located at the original filming studios in Northern Ireland, featuring authentic sets, costumes, and props from the series.",
+        "city": "Banbridge",
+        "opening_time": "10:00",
+        "closing_time": "18:30"
+    },
+    {
+        "id": "dub_club_001",
+        "name": "Dicey's Garden Club",
+        "category": "Club",
+        "importance_score": 8,
+        "location": {
+            "lat": 53.3359,
+            "lon": -6.2625
+        },
+        "vibe_tags": [
+            "party",
+            "students",
+            "outdoor",
+            "cheap drinks"
+        ],
+        "cost_tier": "$",
+        "description": "A massive, sprawling indoor/outdoor nightclub renowned for cheap drink promotions, drawing huge crowds of students and younger tourists.",
+        "city": "Dublin",
+        "opening_time": "16:00",
+        "closing_time": "02:30"
+    },
+    {
+        "id": "dub_club_002",
+        "name": "Copper Face Jacks",
+        "category": "Club",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3361,
+            "lon": -6.2618
+        },
+        "vibe_tags": [
+            "iconic",
+            "late night",
+            "dancing",
+            "guilty pleasure"
+        ],
+        "cost_tier": "$$",
+        "description": "An absolute Dublin institution. A notoriously chaotic, highly popular late-night club famous for playing cheesy pop tunes and staying open very late.",
+        "city": "Dublin",
+        "opening_time": "22:00",
+        "closing_time": "03:30"
+    },
+    {
+        "id": "dub_club_003",
+        "name": "The George",
+        "category": "Club",
+        "importance_score": 9,
+        "location": {
+            "lat": 53.3429,
+            "lon": -6.2647
+        },
+        "vibe_tags": [
+            "lgbtq+",
+            "drag shows",
+            "lively",
+            "inclusive"
+        ],
+        "cost_tier": "$$",
+        "description": "Dublin's premier and most iconic LGBTQ+ nightclub and bar, featuring incredible drag performances, vibrant dance floors, and an incredibly welcoming atmosphere.",
+        "city": "Dublin",
+        "opening_time": "14:00",
+        "closing_time": "02:30"
+    }
+]

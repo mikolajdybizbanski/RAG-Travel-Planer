@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+chromadb
+scikit-learn
+numpy
+groq
+python-dotenv
+pydantic
